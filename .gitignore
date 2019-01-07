@@ -2,6 +2,8 @@
 *.ckpt
 *.old
 *.pyc
+.idea
+.vscode
 .DS_Store
 .ipynb_checkpoints
 checkpoint
